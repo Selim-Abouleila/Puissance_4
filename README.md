@@ -27,17 +27,6 @@ You'll be asked to choose:
 -IA vs IA
 --Who starts the game
 
-Example Game Board:
 
-. . . . . . . . . . . .
-. . . . . . . . . . . .
-. . . . . . . . . . . .
-. . . . . . . . . . . .
-. . . . . . . . . . . .
-1 0 0 -1 0 0 0 0 0 0 0 0
-0 1 2  3 4 5 6 7 8 9 10 11
-1 = IA move
-
--1 = Opponent move
 
 . = Empty cell
